@@ -15,7 +15,7 @@ mongoose.connect('mongodb://localhost:27017/ecommerce', { useNewUrlParser: true,
 
 // Routes
 app.get('/', (req, res) => {
-  res.send('Bienvenue sur l API d intégration cloud e-commerce !');
+  res.send('Bienvenue sur l API d intégration cloud pour le e-commerce !');
 });
 
 app.listen(PORT, () => {
