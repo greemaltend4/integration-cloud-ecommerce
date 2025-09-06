@@ -1,7 +1,7 @@
 {
   "name": "integration-cloud-ecommerce",
   "version": "1.0.0",
-  "description": "Intégration cloud pour le e-commerce",
+  "description": "Integration cloud pour le e-commerce",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
