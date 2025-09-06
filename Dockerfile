@@ -1,4 +1,4 @@
-FROM node:16
+FROM node:18
 
 # Créer le dossier de l'application
 WORKDIR /usr/src/app
